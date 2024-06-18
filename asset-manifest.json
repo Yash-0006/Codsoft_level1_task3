@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Codsoft_level1_task3/static/css/main.d9f11a91.css",
+    "main.js": "/Codsoft_level1_task3/static/js/main.390a19dd.js",
+    "static/js/453.d5195dcb.chunk.js": "/Codsoft_level1_task3/static/js/453.d5195dcb.chunk.js",
+    "index.html": "/Codsoft_level1_task3/index.html",
+    "main.d9f11a91.css.map": "/Codsoft_level1_task3/static/css/main.d9f11a91.css.map",
+    "main.390a19dd.js.map": "/Codsoft_level1_task3/static/js/main.390a19dd.js.map",
+    "453.d5195dcb.chunk.js.map": "/Codsoft_level1_task3/static/js/453.d5195dcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9f11a91.css",
+    "static/js/main.390a19dd.js"
+  ]
+}
